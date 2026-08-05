@@ -2,7 +2,7 @@
 //  Journal.swift
 //  Morning
 //
-//  Created by Thomas Dornhofer on 05.08.26.
+//  Created by Thomas on 05.08.26.
 //
 
 import Foundation

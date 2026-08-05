@@ -2,7 +2,7 @@
 //  JournalView.swift
 //  Morning
 //
-//  Created by Thomas Dornhofer on 05.06.26.
+//  Created by Thomas on 05.06.26.
 //
 
 import SwiftUI
@@ -44,5 +44,5 @@ struct JournalView: View {
 }
 
 #Preview {
-    JournalView(JournalText: "In den letzten Jahren hat sich die urbane Mobilität rasant verändert. Mit der zunehmenden Urbanisierung und den Herausforderungen des Klimawandels suchen Städte weltweit nach nachhaltigen und effizienten Transportlösungen. Elektrofahrräder (E-Bikes) haben sich als vielversprechende Alternative zu herkömmlichen Fahrzeugen etabliert. In diesem Artikel untersuchen wir die Vorteile von E-Bikes, die aktuellen Trends und die Zukunftsaussichten dieser innovativen Fortbewegungsart.")
+    JournalView(JournalText: "Hallo.")
 }

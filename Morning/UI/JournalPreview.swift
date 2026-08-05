@@ -2,7 +2,7 @@
 //  JournalPreview.swift
 //  Morning
 //
-//  Created by Thomas Dornhofer on 05.06.26.
+//  Created by Thomas on 05.06.26.
 //
 
 import SwiftUI
