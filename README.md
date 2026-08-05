@@ -9,7 +9,7 @@ A simple iOS app for your morning well-being.
 * Second stage: set a timer and relax
 
 ## Requirements
-* **Xcode**: compatible with iOS 16+
+* **Xcode**: compatible with iOS 26+
 
 ## Setup and Build
 1. Clone this repository.
