@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E9B701C7302376350029C9E0 /* MorningIcon.icon in Resources */ = {isa = PBXBuildFile; fileRef = E9B701C6302376350029C9E0 /* MorningIcon.icon */; };
+		E97E8D593023B689000AF70B /* MorningAppicon.icon in Resources */ = {isa = PBXBuildFile; fileRef = E97E8D583023B689000AF70B /* MorningAppicon.icon */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E97E8D583023B689000AF70B /* MorningAppicon.icon */ = {isa = PBXFileReference; lastKnownFileType = folder.iconcomposer.icon; path = MorningAppicon.icon; sourceTree = "<group>"; };
 		E9B51F122FD18B1000946481 /* Morning.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Morning.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E9B701C6302376350029C9E0 /* MorningIcon.icon */ = {isa = PBXFileReference; lastKnownFileType = folder.iconcomposer.icon; path = MorningIcon.icon; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -39,7 +39,7 @@
 			children = (
 				E9B51F142FD18B1000946481 /* Morning */,
 				E9B51F132FD18B1000946481 /* Products */,
-				E9B701C6302376350029C9E0 /* MorningIcon.icon */,
+				E97E8D583023B689000AF70B /* MorningAppicon.icon */,
 			);
 			sourceTree = "<group>";
 		};
@@ -115,7 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9B701C7302376350029C9E0 /* MorningIcon.icon in Resources */,
+				E97E8D593023B689000AF70B /* MorningAppicon.icon in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +258,7 @@
 		E9B51F1E2FD18B1100946481 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = MorningIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = MorningAppicon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -292,7 +292,7 @@
 		E9B51F1F2FD18B1100946481 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = MorningIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = MorningAppicon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
