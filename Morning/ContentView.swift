@@ -1,21 +1,20 @@
 //
 //  ContentView.swift
-//  Morning
+//  Morning!
 //
-//  Created by Thomas Dornhofer on 04.06.26.
+//  Created by Thomas Dornhofer on 02.06.26.
 //
 
 import SwiftUI
+import SwiftData
 
 struct ContentView: View {
+
+        
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
+        
+        HomescreenView()
+            .modelContainer(for: Journal.self)
     }
 }
 
